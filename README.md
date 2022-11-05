@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seaworth
 - 👀 I’m interested in Linux Device Driver and WiFi driver
-- 🌱 I’m currently learning IEEE802.11 spec and Linux Device Driver
+- 🌱 I’m currently learning IEEE802.11 spec and Linux Device Driver about WiFi
 - 📫 CSDN blog is [Lizune ](https://blog.csdn.net/m0_38059875)
 
 <!---
